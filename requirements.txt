@@ -1,0 +1,14 @@
+chromadb==0.4.24
+fastapi
+bson
+pillow
+prompt-toolkit
+python-dotenv==1.0.0
+langchain_core
+langchain_openai
+langchain
+langchain_community
+langchain_chroma
+openai
+starlette
+uvicorn[standard]
